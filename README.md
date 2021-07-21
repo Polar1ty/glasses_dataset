@@ -2,7 +2,7 @@
 Scripts for collecting pictures of humans wearing glasses.
 
 ## Before start:
-- You need to prepare chrome webdriver of from **[EFF](https://chromedriver.chromium.org/downloads)** (You can check your chrome version in Help -> About Google Chrome).
+- You need to prepare chrome webdriver of from **[chromedriver](https://chromedriver.chromium.org/downloads)** (You can check your chrome version in Help -> About Google Chrome).
 - Clone pretrained model for face detection from this repo (.xml file).
 - Also you need to install through pip needed packages as requests, PIL, selenium, cv2 (for last one write `pip install opencv-python`).
 
